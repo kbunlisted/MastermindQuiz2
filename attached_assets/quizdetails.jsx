@@ -1,0 +1,1 @@
+/* Function for viewing quiz details */
